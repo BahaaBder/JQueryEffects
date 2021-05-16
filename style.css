@@ -1,0 +1,45 @@
+#animationField {
+    width: 500px;
+    height: 250px;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid red;
+    margin: 6px;
+}
+
+button {
+    margin: 4px;
+    background-color: #6ab04c;
+    border: 2px solid gray;
+    font-size: large;
+}
+
+#home {
+    margin: 6px;
+}
+
+i {
+    margin-left: 20%;
+}
+
+#navbar {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    width: 125px;
+}
+
+#navbar a {
+    background-color: #949494;
+    color: #fff;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    border-left: 5px solid #33ADFF;
+    display: block;
+    width: 100px;
+}
+
+#navbar li {
+    border-left: 10px solid #666;
+    border-bottom: 1px solid #666;
+}
